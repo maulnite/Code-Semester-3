@@ -2,11 +2,11 @@ package PRAKTIKUM_ASD.LiveCoding.Bab4;
 
 import java.util.Scanner;
 
-class Pasien {
+class Pasien2 {
     String idPasien, namaPasien, penyakit;
     int levelPrioritas;
 
-    Pasien(String idPasien, String namaPasien, String penyakit, int levelPrioritas) {
+    Pasien2(String idPasien, String namaPasien, String penyakit, int levelPrioritas) {
         this.idPasien = idPasien;
         this.namaPasien = namaPasien;
         this.penyakit = penyakit;
