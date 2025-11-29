@@ -5,7 +5,7 @@
  * 245150201111053 FARREL_BRILLIANT
 */
 
-package ASD.Tugas;
+package ASD.Tugas.Tugas1;
 
 import java.util.Scanner;
 
